@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "39761123872",
+    "firebase_url": "https://masa-farms-default-rtdb.firebaseio.com",
+    "project_id": "masa-farms",
+    "storage_bucket": "masa-farms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39761123872:android:0e8706ac0ec82739c47a45",
+        "android_client_info": {
+          "package_name": "com.example.masa_farms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39761123872-f5tu893cceogtpqh685idencuaj135i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfB0beDMlWp989Dy97FWUWb-jitNtc4LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39761123872-f5tu893cceogtpqh685idencuaj135i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
